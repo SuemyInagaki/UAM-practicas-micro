@@ -54,7 +54,7 @@ int main(){
 				printf("Numero incorrecto\n");
 				break;
 		}
-		printf("¿Desea ejecutar otra funcion? SI=0/ NO=1\n");
+		printf("Â¿Desea ejecutar otra funcion? SI=0/ NO=1\n");
 		scanf("%d",&salir);
 	}while(salir==0);
 	return 0;
